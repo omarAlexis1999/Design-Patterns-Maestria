@@ -15,6 +15,7 @@ En una IES (Institución de Educación Superior) existen docentes, estudiantes y
 
 #### Implementación Patron de diseño Factory Method y Decorator
 
+![ModeloDominio](https://github.com/omarAlexis1999/Design-Patterns-Maestria/assets/52268702/2cd50052-dd41-43a7-aafd-83ca6451e6ba)
 
 ## Cómo ejecutar el proyecto
 
