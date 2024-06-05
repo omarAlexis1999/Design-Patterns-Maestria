@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Johanna Patricia Montaño Guaman
-- Omar Alexis Sanmartin Tapia*
+- Omar Alexis Sanmartin Tapia
 - Edison Josue Ordoñez Monge
 
 ## Actividad
